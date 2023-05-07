@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Barvikha RP 2023 is a futuristic role-playing game that takes place in the year 2023. The game is set in a post-apocalyptic world where society has collapsed, and players must survive in a dangerous and hostile environment. ","photo":"https://iili.io/HSsSUxt.jpg"},
+  {"title":"tips pack 2","desc":" The game features an immersive open-world environment, which allows players to explore a vast and sprawling landscape filled with ruins, abandoned cities, and hidden treasures. ","photo":"https://iili.io/HSsSrsn.jpg"},
+  {"title":"advice mod 3","desc":" In this article, we will take a closer look at Barvikha RP 2023 and explore some of the features and gameplay mechanics that make it a compelling and engaging experience.","photo":"https://iili.io/HSsSgWX.jpg"},
+  {"title":"how to use this app 4","desc":"The world of Barvikha RP 2023 is a dark and foreboding place, filled with dangers and challenges at every turn. The game is set in Russia, which has been devastated by a catastrophic event that has left the landscape barren and lifeless. ","photo":"https://iili.io/HSsS6fs.jpg"},
+  {"title":"advance pack 5","desc":"Players take on the role of survivors who must band together and fight for their survival in this harsh and unforgiving world. ","photo":"https://iili.io/HSsSP0G.jpg"},
+  {"title":"helper mod 6","desc":"The game's storyline is complex and engaging, with plenty of twists and turns that keep players engaged throughout.","photo":"https://iili.io/HSsSigf.jpg"},
+  {"title":"advice pack 7","desc":"One of the most notable features of Barvikha RP 2023 is its open-world environment. The game world is vast and sprawling, with countless locations to explore and discover. ","photo":"https://iili.io/HSsSUxt.jpg"},
+  {"title":"how to use this app 8","desc":" Players can travel through dense forests, across barren deserts, and into abandoned cities as they search for supplies, weapons, and shelter.","https://iili.io/HSsSLJ4.jpg"}
    ]
  
 }
