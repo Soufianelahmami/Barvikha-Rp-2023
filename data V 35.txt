@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advance pack 1","desc":"Barvikha-Rp-2023 is a next-generation VR platform developed by a team of experts and engineers. It combines state-of-the-art hardware and software technologies to create a truly immersive and realistic virtual experience. ","photo":"https://iili.io/HUaCqmP.jpg"},
+  {"title":"how to use this app 2","desc":"Barvikha-Rp-2023 is a next-generation VR platform developed by a team of experts and engineers. It combines state-of-the-art hardware and software technologies to create a truly immersive and realistic virtual experience. ","photo":"https://iili.io/HUaCK7V.jpg"},
+  {"title":"tips mod 3","desc":"Barvikha-Rp-2023 is a next-generation VR platform developed by a team of experts and engineers. It combines state-of-the-art hardware and software technologies to create a truly immersive and realistic virtual experience. ","photo":"https://iili.io/HUaCfkB.jpg"},
+  {"title":"advice pack 4","desc":"Barvikha-Rp-2023 is a next-generation VR platform developed by a team of experts and engineers. It combines state-of-the-art hardware and software technologies to create a truly immersive and realistic virtual experience. ","photo":"https://iili.io/HUaCR7p.png"},
+  {"title":"helper mod 5","desc":"Barvikha-Rp-2023 is a next-generation VR platform developed by a team of experts and engineers. It combines state-of-the-art hardware and software technologies to create a truly immersive and realistic virtual experience. ","photo":"https://iili.io/HUaCCI1.jpg"},
+  {"title":"how to use this app 6","desc":"Barvikha-Rp-2023 offers interactive environments that respond to user actions and inputs. Users can manipulate objects, interact with virtual characters, and solve puzzles, creating a sense of agency and engagement. The platform also supports haptic feedback, enabling users to feel physical sensations through specialized controllers or suits.","photo":"https://iili.io/HUaCzBa.jpg"},
+  {"title":"tips pack 7","desc":"One of the key aspects of Barvikha-Rp-2023 is its focus on social interaction. Users can connect and communicate with other participants within the virtual worlds, enabling collaborative experiences and fostering a sense of community.","photo":"https://iili.io/HUaCoLg.jpg"},
+  {"title":"advice mod 8","desc":"Barvikha-Rp-2023 provides users with powerful customization and creation tools, allowing them to personalize their virtual avatars, create unique virtual spaces, and even design interactive experiences. ","photo":"https://iili.io/HUaCnhF.jpg"}
 
    ]
  
